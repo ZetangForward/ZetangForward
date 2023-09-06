@@ -14,7 +14,7 @@ Welcome to my page, my name is Zecheng Tang (汤泽成), you can call me Tang or
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
-  <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=CODINNLG&show_icons=true&theme=highcontrast"/></a>
+  <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=zetangforward&show_icons=true&theme=highcontrast"/></a>
 </div>
 
 
