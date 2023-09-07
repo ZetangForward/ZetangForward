@@ -20,9 +20,10 @@ Welcome to my page. My name is Zecheng Tang (汤泽成); you can call me Tang or
 
 - ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
 
-- 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
+<!-- - 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
 - 👯 I am currently a research intern at Microsoft Research Asia (MSRA), focusing on multimodal image understanding and synthesis.
 - 🤔 My research interests include deep learning for natural language generation (NLG), foundation models (including LLMs), multimodal image understanding and synthesis.
+-->
 - 📫 How to reach me: [zecheng.tang@foxmail.com](mailto:zecheng.tang@foxmail.com)
 
 
