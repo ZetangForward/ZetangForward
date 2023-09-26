@@ -24,7 +24,7 @@ Welcome to my page. My name is Zecheng Tang (汤泽成); you can call me Tang or
 - 👯 I am currently a research intern at Microsoft Research Asia (MSRA), focusing on multimodal image understanding and synthesis.
 - 🤔 My research interests include deep learning for natural language generation (NLG), foundation models (including LLMs), multimodal image understanding and synthesis.
 -->
-- 📫 How to reach me: [zecheng.tang@foxmail.com](mailto:zecheng.tang@foxmail.com)
+- 📫 How to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
 
 
 <!--
