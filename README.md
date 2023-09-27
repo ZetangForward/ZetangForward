@@ -8,7 +8,7 @@
 <!-- ![CODINNLG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODINNLG&show_icons=true&theme=highcontrast) -->
 
 ### Hi there 👋
-Welcome to my page. My name is Zecheng Tang (汤泽成); you can call me Tang or Eric /ˈerɪk/
+Welcome to my page. My name is Zecheng Tang; you can call me Tang /ˈtæŋ/ or Eric /ˈerɪk/
 
 <div align="left">
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
