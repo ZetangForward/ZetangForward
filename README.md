@@ -11,7 +11,7 @@
 Welcome to my page. My name is Zecheng Tang; you can call me Zecheng or Eric /ˈerɪk/
 
 <div align="left">
-  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
+  <!-- <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
   <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=zetangforward&show_icons=true&theme=highcontrast"/></a>
