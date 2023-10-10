@@ -19,11 +19,9 @@ Welcome to my page. My name is Zecheng Tang; you can call me Zecheng or Eric /ˈ
 
 
 - ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
-
-<!-- - 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
-- 👯 I am currently a research intern at Microsoft Research Asia (MSRA), focusing on multimodal image understanding and synthesis.
-- 🤔 My research interests include deep learning for natural language generation (NLG), foundation models (including LLMs), multimodal image understanding and synthesis.
--->
+- 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
+- 👯 I am currently a research intern at Microsoft Research Asia (MSRA), focusing on multi-modal generation with LLMs.
+- 🤔 My research interests include deep learning for controllable natural language generation (NLG), foundation models, multimodal generation, and model alignment.
 - 📫 How to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
 
 
