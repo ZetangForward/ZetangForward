@@ -8,20 +8,27 @@
 <!-- ![CODINNLG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODINNLG&show_icons=true&theme=highcontrast) -->
 
 ### Hi there 👋
-Welcome to my page. My name is Zecheng Tang; you can call me Zecheng or Eric /ˈerɪk/
+Welcome to my page. My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
-<div align="left">
-<img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
-  <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=zetangforward&show_icons=true&theme=highcontrast"/></a>
-</div>
+You can call me Zecheng or Eric Tang :)
+
+[![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=HUDkBMUAAAAJ)
+[![](https://img.shields.io/github/stars/ZetangForward?style=flat-square&logo=github&label=Stars&color=gray)](https://github.com/ZetangForward)
+[![](https://komarev.com/ghpvc/?username=ZetangForward&style=flat-square)](https://github.com/ZetangForward)
+
+
+<!-- <div align="left"> 
+    <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> 
+   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> 
+   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  
+  <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api? username=zetangforward&show_icons=true&theme=highcontrast"/></a>
+</div> -->
 
 - ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
 - 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
 - 👯 I was a research intern at Microsoft Research Asia (MSRA), focusing on **Multimodal Generation** with LLMs (Visual ChatGPT, LayoutNUWA, and StrokeNUWA).
 - 🤔 Currently, my research interests include **Context-length Scaling**(including the explosion of new Model Architectures, Data Engineering, etc), **Model Alignment**(especially, for Generative Models like Transformers), and **Multimodal Generation**.
-- 📫 I enjoy cooperating with others. How to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
+- 📫 If you have any questions about my work, feel free to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake-dark.svg">
