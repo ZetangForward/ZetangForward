@@ -23,6 +23,13 @@ Welcome to my page. My name is Zecheng Tang; you can call me Zecheng or Eric /ˈ
 - 🤔 Currently, my research interests include **Context-length Scaling**(including the explosion of new Model Architectures, Data Engineering, etc), **Model Alignment**(especially, for Generative Models like Transformers), and **Multimodal Generation**.
 - 📫 I enjoy cooperating with others. How to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 
 <!--
