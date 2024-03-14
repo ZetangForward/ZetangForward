@@ -24,9 +24,9 @@ Welcome to my page. My name is Zecheng Tang; you can call me Zecheng or Eric /ˈ
 - 📫 I enjoy cooperating with others. How to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZetangForward/ZetangForward/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake.svg">
 </picture>
 
 
