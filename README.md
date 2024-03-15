@@ -25,7 +25,7 @@ You can call me Zecheng or Eric Tang :)
 </div> -->
 
 - ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
-- 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Outstanding Graduate and Honorary Graduate).
+- 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (rk 1st, Outstanding Graduate and Honorary Graduate).
 - 👯 I was a research intern at Microsoft Research Asia (MSRA), focusing on **Multimodal Generation** with LLMs (Visual ChatGPT, LayoutNUWA, and StrokeNUWA).
 - 🤔 Currently, my research interests include **Context-length Scaling**(including the explosion of new Model Architectures, Data Engineering, etc), **Model Alignment**(especially, for Generative Models like Transformers), and **Multimodal Generation**.
 - 📫 If you have any questions about my work, feel free to reach me: [zctang2000@gmail.com](mailto:zctang2000@gmail.com)
