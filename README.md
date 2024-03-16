@@ -10,7 +10,7 @@
 ### Hi there 👋
 Welcome to my page. My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
-You can call me Zecheng or Eric Tang :)
+You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Eric Tong** (English) :)
 
 [![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=HUDkBMUAAAAJ)
 [![](https://img.shields.io/github/stars/ZetangForward?style=flat-square&logo=github&label=Stars&color=gray)](https://github.com/ZetangForward)
