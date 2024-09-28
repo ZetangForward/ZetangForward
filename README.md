@@ -27,7 +27,7 @@ You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong 
 - ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
 - 🌱 I am currently a second-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (rk 1st, Outstanding Graduate and Honorary Graduate).
 - 👯 I was a research intern at Microsoft Research Asia (MSRA), awarded with **<Star of Tomorrow\>**, focusing on **Multimodal Generation** and **Visual Representation** with LLMs (Visual ChatGPT, LayoutNUWA[ICLR-2024], and StrokeNUWA[ICML-2024]).
-- 🤔 Currently, my research interests include **Long Context Modeling and Generation**(including the explosion of new Model Architectures, Data Engineering, Alignment with RL etc) and **Multimodal Generation**.
+- 🤔 Currently, my research interests include **Long Context Modeling and Generation**(including the explosion of new Model Architectures, Data Engineering, Alignment with RL, etc) and **Multimodal Generation**.
 - 📫 If you have any questions about my work, feel free to reach me: [zecheng.tang@foxmail.com](mailto:zecheng.tang@foxmail.com)
 
 <picture>
