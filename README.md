@@ -9,6 +9,16 @@
   
 <h2>👋 Hi there </h2>
 
+<div align="center">
+
+<!-- dynamic typing effect 动态打字效果 -->
+<div>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7A9&width=435&lines=Hi%2C+have+a+lucky+day!;%E7%A5%9D%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%A5%BD%E8%BF%90%EF%BC%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E4%BB%8A%E6%97%A5%E3%81%AE%E5%B9%B8%E9%81%8B%E3%82%92%E7%A5%88%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81;Bonne+chance+aujourd'hui!;Viel+Gl%C3%BCck+heute!&center=true&size=27"/>
+  </a>
+</div>
+</div>
+
 Welcome to my page. My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
 You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Eric Tang** :)
