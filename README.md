@@ -36,6 +36,39 @@ You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake.svg">
 </picture>
 
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <div align="center">
+  <div>&nbsp;</div>
+  <table>
+    <tr>
+      <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+<!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
+      <td><a href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="#btm"><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></a></td>
+      <td><a href="#btm"><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="#btm"><img src="github-metrics/activity.svg" alt="activity" /></a></td>
+      <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Xnhyacinth?tab=stars"><img src="github-metrics/stars.svg" alt="stars" /></a></td>
+      <td><a href="#btm"><img src="github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></a></td>
+    </tr>
+  </table>
+  
+  <img width="120%" src="https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg" />
+  <div id="btm"></div>
+</div>
+
+</details>
+
+
+
+
 
 
 
