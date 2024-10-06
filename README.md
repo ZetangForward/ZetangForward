@@ -6,8 +6,9 @@
 <!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODINNLG&repo=your-repo-name&theme=your-theme)](https://github.com/your-username/your-repo-name)   -->
 
 <!-- ![CODINNLG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODINNLG&show_icons=true&theme=highcontrast) -->
+  
+<h2>👋 Hi there </h2>
 
-### Hi there 👋
 Welcome to my page. My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
 You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Eric Tang** :)
@@ -36,35 +37,27 @@ You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake.svg">
 </picture>
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-  <div align="center">
-  <div>&nbsp;</div>
-  <table>
-    <tr>
-      <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-<!--       <td><img src="https://cdn.jsdelivr.net/gh/Xnhyacinth/Xnhyacinth/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td> -->
-      <td><a href="#btm"><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="#btm"><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></a></td>
-      <td><a href="#btm"><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="#btm"><img src="github-metrics/activity.svg" alt="activity" /></a></td>
-      <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Xnhyacinth?tab=stars"><img src="github-metrics/stars.svg" alt="stars" /></a></td>
-      <td><a href="#btm"><img src="github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></a></td>
-    </tr>
-  </table>
-  
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/60a5e900f598dbdd9402966882bfdbf3588326a1.svg" />
-  <div id="btm"></div>
-</div>
+<h2>⏳Recent Activity</h2>
 
-</details>
+### Oct. 2024 
+- We release a new benchmark for evaluating the faithfulness of long-context models: [L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding?](https://arxiv.org/abs/2410.02115) **Paper** [![arXiv](https://img.shields.io/badge/arXiv-2410.02115-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.02115) &nbsp; **Porject** [![Github](https://img.shields.io/github/stars/ZetangForward/L-CITEEVAL.svg)](https://github.com/ZetangForward/L-CITEEVAL) &nbsp; **Zhihu** [![Zhihu](https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white)](https://zhuanlan.zhihu.com/p/817442176)
+
+  
+<h2>💻 GitHub Profile Stats</h2>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ZetangForward&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ZetangForward's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZetangForward&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ZetangForward's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ZetangForward&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 
