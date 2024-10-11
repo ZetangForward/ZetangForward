@@ -40,8 +40,7 @@ You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong 
 - 🤔 Currently, my research interests include **Long Context Modeling and Generation**(including the explosion of new Model Architectures, Data Engineering, Alignment with RL, Long-form Reasoning, etc) and **Multimodal Generation**.
 - 📫 If you have any questions about my work, feel free to reach me: [zecheng.tang@foxmail.com](mailto:zecheng.tang@foxmail.com)
 
-𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓲𝓽'𝓼 𝓽𝓱𝓮 𝓿𝓮𝓻𝔂 𝓹𝓮𝓸𝓹𝓵𝓮 𝔀𝓱𝓸 𝓷𝓸 𝓸𝓷𝓮 𝓲𝓶𝓪𝓰𝓲𝓷𝓮𝓼 𝓪𝓷𝔂𝓽𝓱𝓲𝓷𝓰 𝓸𝓯 𝔀𝓱𝓸 𝓭𝓸 𝓽𝓱𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 𝓽𝓱𝓪𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓬𝓪𝓷 𝓲𝓶𝓪𝓰𝓲𝓷𝓮.   
-—— 𝓐𝓵𝓪𝓷 𝓣𝓾𝓻𝓲𝓷𝓰
+𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓲𝓽'𝓼 𝓽𝓱𝓮 𝓿𝓮𝓻𝔂 𝓹𝓮𝓸𝓹𝓵𝓮 𝔀𝓱𝓸 𝓷𝓸 𝓸𝓷𝓮 𝓲𝓶𝓪𝓰𝓲𝓷𝓮𝓼 𝓪𝓷𝔂𝓽𝓱𝓲𝓷𝓰 𝓸𝓯 𝔀𝓱𝓸 𝓭𝓸 𝓽𝓱𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 𝓽𝓱𝓪𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓬𝓪𝓷 𝓲𝓶𝓪𝓰𝓲𝓷𝓮. —— 𝓐𝓵𝓪𝓷 𝓣𝓾𝓻𝓲𝓷𝓰
 
 
 <picture>
