@@ -18,7 +18,7 @@
 </div>
 </div>
 
-Welcome to my page. My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
+My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
 You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Eric Tang** :)
 <!--
