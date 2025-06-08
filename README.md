@@ -20,7 +20,7 @@
 
 My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplified Chinese); 
 
-You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **LAN** :)
+You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Tang** (is also OK) :)
 
 **Currently, I am working on the next-generation model in Qwen. Stay tuned for exciting updates!**
 <!--
