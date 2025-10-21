@@ -22,7 +22,7 @@ My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplifi
 
 You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Tang** (is also OK) :)
 
-**Currently, I am working in [Tongyi-Qwen](https://github.com/QwenLM/Qwen) on the generative foundation model. See [Qwen-Image](https://github.com/QwenLM/Qwen-Image)**
+Currently, I am working in [Tongyi-Qwen](https://github.com/QwenLM/Qwen) on the generative foundation model (training infra & post-train with RL). See [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 <!--
 [![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=HUDkBMUAAAAJ)
 [![](https://img.shields.io/github/stars/ZetangForward?style=flat-square&logo=github&label=Stars&color=gray)](https://github.com/ZetangForward) 
@@ -36,10 +36,10 @@ You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong 
   <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api? username=zetangforward&show_icons=true&theme=highcontrast"/></a>
 </div> -->
 
-- ✨ **View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/)
-- 🌱 I am currently beginning my fourth-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Rank 1st, Outstanding Graduate and Honorary Graduate).
+**View my homepage at**: [https://zetangforward.github.io](https://zetangforward.github.io/) and **Check my work at:** [LCM-Lab](https://github.com/LCM-Lab)
+<!-- - 🌱 I am currently beginning my fourth-year Ph.D. student at [Artificial Intelligence Research Institute of Soochow University](http://scst.suda.edu.cn/_s289/28254/list.psp), advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before this, I received my Bachelor's degree (2018-2022, software engineering) from Soochow University (Rank 1st, Outstanding Graduate and Honorary Graduate).
 - 👯 I was a research intern at Microsoft Research Asia (MSRA), awarded with **<Star of Tomorrow\>**, focusing on **Multimodal Generation** with LLMs (Visual ChatGPT, LayoutNUWA[ICLR-2024], and StrokeNUWA[ICML-2024]).
-- 🤔 Currently, my research interests include **Long Context Modeling and Generation**, **Foundation Model**, and **Generative AI**.
+- 🤔 Currently, my research interests include **Long Context Modeling and Generation**, **Foundation Model**, and **Generative AI**. -->
 - 📫 If you have any questions about my work, feel free to reach me: [zecheng.tang@foxmail.com](mailto:zecheng.tang@foxmail.com)
 
 𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓲𝓽'𝓼 𝓽𝓱𝓮 𝓿𝓮𝓻𝔂 𝓹𝓮𝓸𝓹𝓵𝓮 𝔀𝓱𝓸 𝓷𝓸 𝓸𝓷𝓮 𝓲𝓶𝓪𝓰𝓲𝓷𝓮𝓼 𝓪𝓷𝔂𝓽𝓱𝓲𝓷𝓰 𝓸𝓯 𝔀𝓱𝓸 𝓭𝓸 𝓽𝓱𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 𝓽𝓱𝓪𝓽 𝓷𝓸 𝓸𝓷𝓮 𝓬𝓪𝓷 𝓲𝓶𝓪𝓰𝓲𝓷𝓮. —— 𝓐𝓵𝓪𝓷 𝓣𝓾𝓻𝓲𝓷𝓰
