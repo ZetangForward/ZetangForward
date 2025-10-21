@@ -50,8 +50,9 @@ Currently, I am working in [Tongyi-Qwen](https://github.com/QwenLM/Qwen) on the 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zetangforward/zetangforward/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2>⏳Recent Activity</h2>
+<!-- <h2>⏳Recent Activity</h2>
 
+Coding, reading, and writing, and bug a cup of coffee during free time ... -->
 <!-- ### Oct. 2024 
 - We release a new benchmark for evaluating the faithfulness of long-context models: [L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding?](https://arxiv.org/abs/2410.02115) **Paper** [![arXiv](https://img.shields.io/badge/arXiv-2410.02115-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.02115) &nbsp; **Porject** [![Github](https://img.shields.io/github/stars/ZetangForward/L-CITEEVAL.svg)](https://github.com/ZetangForward/L-CITEEVAL) &nbsp; **Zhihu** [![Zhihu](https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white)](https://zhuanlan.zhihu.com/p/817442176)
 - We release an efficient long-context alignment method: [LOGO — Long cOntext aliGnment via efficient preference Optimization](https://arxiv.org/html/2410.18533v1) **Paper** [![arXiv](https://img.shields.io/badge/arXiv-2410.18533v1-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.18533v1) &nbsp; **Porject** [![Github](https://img.shields.io/github/stars/ZetangForward/LCM_Stack.svg)](https://github.com/ZetangForward/LCM_Stack) &nbsp; **Zhihu** [![Zhihu](https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white)](https://zhuanlan.zhihu.com/p/2993874959) -->
