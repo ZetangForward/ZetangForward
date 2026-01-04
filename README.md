@@ -22,8 +22,8 @@ My name is **Zecheng Tang** (**湯澤成**/**汤泽成** in traditional/simplifi
 
 You can call me **Zecheng** ([/zəˈtʂʌŋ/], Mandarin pronunciation) / **Tong Zak Sing** (Cantonese pronunciatio) / **Tang** (is also OK) :)
 
-Currently, I am working in [Tongyi-Qwen](https://github.com/QwenLM/Qwen) on the generative foundation model (training infra & post-train with RL). See [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 <!--
+Currently, I am working in [Tongyi-Qwen](https://github.com/QwenLM/Qwen) on the generative foundation model (training infra & post-train with RL). See [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 [![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=HUDkBMUAAAAJ)
 [![](https://img.shields.io/github/stars/ZetangForward?style=flat-square&logo=github&label=Stars&color=gray)](https://github.com/ZetangForward) 
 [![](https://komarev.com/ghpvc/?username=ZetangForward&style=flat-square)](https://github.com/ZetangForward)
